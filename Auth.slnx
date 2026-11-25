@@ -1,0 +1,4 @@
+<Solution>
+  <Folder Name="/TestFolder/" />
+  <Project Path="Auth/Auth.csproj" />
+</Solution>
